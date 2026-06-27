@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/25032007/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/25032007/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0414-third-maximum-number](https://github.com/25032007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/25032007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/25032007/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
@@ -65,8 +66,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/25032007/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/25032007/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/25032007/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/25032007/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
