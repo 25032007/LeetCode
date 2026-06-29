@@ -82,5 +82,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/25032007/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25032007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/25032007/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
