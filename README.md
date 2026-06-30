@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/25032007/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/25032007/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/25032007/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [2235-add-two-integers](https://github.com/25032007/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
