@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/25032007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/25032007/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0414-third-maximum-number](https://github.com/25032007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/25032007/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/25032007/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/25032007/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25032007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/25032007/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/25032007/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/25032007/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/25032007/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/25032007/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/25032007/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/25032007/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
