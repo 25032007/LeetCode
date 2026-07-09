@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/25032007/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/25032007/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/25032007/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/25032007/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/25032007/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/25032007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/25032007/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,9 +121,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/25032007/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/25032007/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/25032007/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
