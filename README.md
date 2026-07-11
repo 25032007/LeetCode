@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/25032007/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/25032007/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25032007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1929-concatenation-of-array](https://github.com/25032007/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25032007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/25032007/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/25032007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0415-add-strings](https://github.com/25032007/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1929-concatenation-of-array](https://github.com/25032007/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
