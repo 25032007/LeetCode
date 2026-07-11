@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/25032007/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/25032007/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/25032007/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1470-shuffle-the-array](https://github.com/25032007/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/25032007/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25032007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/25032007/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
