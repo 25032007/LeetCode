@@ -1,24 +1,12 @@
 class Solution {
 public:
     vector<int> shuffle(vector<int>& nums, int n) {
-        int m = nums.size();
-        vector<int> ans(n*2);
+        vector<int> ans;
 
-        int i=0, j= n, k = 0;
-        while(k < m){
-            if(k % 2 == 0){
-                ans[k] = nums[i];
-                k++;
-                i++;
-            }
-            else{
-                ans[k] = nums[j];
-                k++;
-                j++;
-            }
+        for(int i=0; i<n; i++){
+            ans.push_back(nums[i]);
+            ans.push_back(nums[i+n]);
         }
         return ans;
-
-
     }
 };
