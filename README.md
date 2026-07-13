@@ -138,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/25032007/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/25032007/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/25032007/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
