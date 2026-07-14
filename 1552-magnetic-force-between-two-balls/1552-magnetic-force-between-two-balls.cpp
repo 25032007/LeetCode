@@ -19,6 +19,7 @@ public:
         int n = position.size();
         sort(position.begin(), position.end());
         int low = 1, high = position[n-1] - position[0];
+        //MinDiff = 1 aand MaxDiff = position[n-1] - position[n];
         int ans = 0;
 
         while(low <= high){
@@ -35,3 +36,5 @@ public:
         return ans;
     }
 };
+//Time complexity : O(n log(n) + n log(high))
+//Space complexity: O(1)
