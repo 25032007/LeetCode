@@ -7,7 +7,7 @@ class Solution {
         int countBalls = 1, last = position[0];
 
         for(int i=1; i<n; i++){
-            if(position[i] >= mid + last){
+            if(position[i] - last >= mid){
                 countBalls++;
                 last = position[i];
             }
