@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/25032007/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/25032007/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/25032007/LeetCode/tree/main/2235-add-two-integers/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/25032007/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/25032007/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -166,4 +167,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/25032007/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/25032007/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
