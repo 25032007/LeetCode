@@ -2,7 +2,7 @@ class Solution {
     int check(vector<int>& nums, int threshold, int mid){
         int sum = 0;
         for(int i=0; i<nums.size(); i++){
-            sum += ceil(double(nums[i]) / mid);
+            sum += (nums[i] + mid -1)/mid;
         }
         return sum <= threshold;
     }
