@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/25032007/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/25032007/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/25032007/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/25032007/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/25032007/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/25032007/LeetCode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25032007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/25032007/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/25032007/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/25032007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/25032007/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/25032007/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/25032007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/25032007/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/25032007/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/25032007/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/25032007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/25032007/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Sorting
@@ -89,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/25032007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/25032007/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/25032007/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/25032007/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/25032007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/25032007/LeetCode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/25032007/LeetCode/tree/main/2235-add-two-integers/) | Easy |
