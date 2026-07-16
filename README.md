@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/25032007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/25032007/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/25032007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/25032007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/25032007/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/25032007/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/25032007/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/25032007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/25032007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/25032007/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/25032007/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/25032007/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/25032007/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0415-add-strings](https://github.com/25032007/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/25032007/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/25032007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/25032007/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/25032007/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/25032007/LeetCode/tree/main/2235-add-two-integers/) | Easy |
