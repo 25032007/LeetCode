@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/25032007/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/25032007/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/25032007/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/25032007/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/25032007/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/25032007/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/25032007/LeetCode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/25032007/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/25032007/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/25032007/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/25032007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/25032007/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/25032007/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
