@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/25032007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1678-goal-parser-interpretation](https://github.com/25032007/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25032007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/25032007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/25032007/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/25032007/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/25032007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/25032007/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/25032007/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/25032007/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/25032007/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/25032007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
