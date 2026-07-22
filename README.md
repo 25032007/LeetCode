@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/25032007/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/25032007/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/25032007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/25032007/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/25032007/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/25032007/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/25032007/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/25032007/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0682-baseball-game](https://github.com/25032007/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/25032007/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1929-concatenation-of-array](https://github.com/25032007/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/25032007/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/25032007/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/25032007/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0682-baseball-game](https://github.com/25032007/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/25032007/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/25032007/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
