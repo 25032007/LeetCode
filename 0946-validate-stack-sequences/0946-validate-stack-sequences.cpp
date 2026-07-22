@@ -8,7 +8,7 @@ public:
         for(int i=0; i<n; i++){
             st.push(pushed[i]);
 
-            while(!st.empty() && j<popped.size() && st.top() == popped[j]){
+            while(!st.empty() && st.top() == popped[j]){
                 st.pop();
                 j++;
             }
