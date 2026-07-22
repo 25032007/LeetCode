@@ -9,7 +9,7 @@ public:
     
     void push(int value) {
         st.push(value);
-        if(minStack.empty() || minStack.top() >= value){
+        if(minStack.empty() || minStack.top() >= st.top()){
             minStack.push(value);
         }
     }
