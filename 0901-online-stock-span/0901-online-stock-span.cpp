@@ -1,7 +1,7 @@
 class StockSpanner {
-    private:
-        stack<pair<int, int>> st;
-        int currDay;
+private:
+    stack<pair<int, int>> st;
+    int currDay;
 public:
     StockSpanner() {
         currDay = 0;
@@ -13,7 +13,7 @@ public:
             st.pop();
         }
 
-        int ans;
+        int ans=0;
         if(st.empty()) ans = currDay + 1;
         else ans = currDay - st.top().second;
 
