@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/25032007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/25032007/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0415-add-strings](https://github.com/25032007/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0492-construct-the-rectangle](https://github.com/25032007/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/25032007/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/25032007/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/25032007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
