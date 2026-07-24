@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25032007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/25032007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/25032007/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/25032007/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/25032007/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/25032007/LeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/25032007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/25032007/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1929-concatenation-of-array](https://github.com/25032007/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/25032007/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/25032007/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/25032007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/25032007/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -249,4 +251,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/25032007/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/25032007/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
