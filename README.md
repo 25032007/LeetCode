@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2073-time-needed-to-buy-tickets](https://github.com/25032007/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/25032007/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/25032007/LeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/25032007/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/25032007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/25032007/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/25032007/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/25032007/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25032007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/25032007/LeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/25032007/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/25032007/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/25032007/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/25032007/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/25032007/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/25032007/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/25032007/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/25032007/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/25032007/LeetCode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/25032007/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/25032007/LeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/25032007/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
