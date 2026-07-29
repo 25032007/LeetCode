@@ -19,10 +19,11 @@ public:
             temp = temp->next;
         }
 
-        temp = head;
+        // temp = head;
         for(int i=0; i<count/2; i++){
-            temp = temp->next;
+            head = head->next;
         }
-        return temp;
+        delete temp;
+        return head;
     }
 };
