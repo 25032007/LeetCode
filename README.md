@@ -283,5 +283,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/25032007/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/25032007/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
