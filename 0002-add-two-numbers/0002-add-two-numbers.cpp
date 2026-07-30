@@ -9,28 +9,43 @@
  * };
  */
 class Solution {
+private:
+    int getsize(ListNode* head){
+        int len = 0;
+        while(head != nullptr){
+            len++;
+            head = head->next;
+        }
+        return len;
+    }
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummy = new ListNode(-1);
-        ListNode* temp = dummy;
+        int len1 = getsize(l1);
+        int len2 = getsize(l2);
 
+        if(len1 < len2){
+            swap(l1, l2);
+        }
+        ListNode* head = l1;
+        ListNode* prev = nullptr;
         int carry = 0;
 
-        while(l1 != nullptr || l2 != nullptr || carry != 0){
-            int sum = carry;
+        while(l1 != nullptr){
+            int sum = carry + l1->val + (l2 != nullptr ? l2->val : 0);
+            carry = sum / 10;
+            l1->val = sum % 10;
 
-            if(l1 != nullptr){
-                sum += l1->val;
-                l1 = l1->next;
-            }
+            prev = l1;
+            l1 = l1->next;
             if(l2 != nullptr){
-                sum += l2->val;
                 l2 = l2->next;
             }
-            carry = sum / 10;
-            temp->next = new ListNode(sum % 10);
-            temp = temp->next;
         }
-        return dummy->next;
+
+        if(carry > 0){
+            prev->next = new ListNode(carry);
+        }
+
+        return head;
     }
 };
