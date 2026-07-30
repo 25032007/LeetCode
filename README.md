@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/25032007/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/25032007/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/25032007/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/25032007/LeetCode/tree/main/0204-count-primes/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/25032007/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/25032007/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/25032007/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/25032007/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/25032007/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/25032007/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/25032007/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/25032007/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
