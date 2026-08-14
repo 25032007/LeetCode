@@ -13,8 +13,8 @@ public:
                 mp[s[i]]--;
                 i++;
             }
+            maxi = max(maxi, (j - i + 1));
             j++;
-            maxi = max(maxi, (j - i));
         }
         return maxi;
     }
