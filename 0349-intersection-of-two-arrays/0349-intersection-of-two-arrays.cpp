@@ -1,17 +1,14 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int, bool> mp;
+        unordered_set<int> set1(nums1.begin(), nums1.end());
+
         vector<int> res;
 
-        for(int num : nums1){
-            mp[num] = true;
-        }
-
-        for(int num :  nums2){
-            if(mp[num]){
+        for(int num: nums2){
+            if(set1.count(num)){
                 res.push_back(num);
-                mp[num] = false;
+                set1.erase(num);
             }
         }
         return res;
