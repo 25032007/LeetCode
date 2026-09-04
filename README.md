@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3866-first-unique-even-element](https://github.com/25032007/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/25032007/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/25032007/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/25032007/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/25032007/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/25032007/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/25032007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/25032007/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
