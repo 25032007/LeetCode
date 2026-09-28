@@ -11,18 +11,18 @@ public:
         }
 
         while(!mp.empty()){
-            vector<int> temp;
+            vector<int> remove;
 
             for(auto& c : mp){
                 ans.push_back(c.first);
                 c.second--;
 
                 if(c.second == 0){
-                    temp.push_back(c.first);
+                    remove.push_back(c.first);
                 }
             }
 
-            for(int i : temp){
+            for(int i : remove){
                 mp.erase(i);
             }
         }
