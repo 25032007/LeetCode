@@ -11,24 +11,22 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, vector<int>& arr){
-        if(!root) return;
-
-        arr.push_back(root->val);
-        solve(root->left, arr);
-        solve(root->right, arr);
-    }
-
+    int sum = 0;
     int rangeSumBST(TreeNode* root, int low, int high) {
-        int sum = 0;
 
-        vector<int> arr;
-        solve(root, arr);
-        
-        for(int i=0; i<arr.size(); i++){
-            if(arr[i] >= low && arr[i] <= high){
-                sum += arr[i];
-            }
+        if(root == nullptr) return sum;
+
+        if(root->val >= low && root->val <= high){
+            sum += root->val;
+            rangeSumBST(root->left, low, high);
+            rangeSumBST(root->right, low, high);
+        }
+
+        else if(root->val < low){
+            rangeSumBST(root->right, low, high);
+        }
+        else if(root->val > high){
+            rangeSumBST(root->left, low, high);
         }
         return sum;
     }
