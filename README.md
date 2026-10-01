@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/25032007/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/25032007/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/25032007/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/25032007/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/25032007/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/25032007/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/25032007/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/25032007/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/25032007/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/25032007/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/25032007/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/25032007/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -510,4 +513,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/25032007/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/25032007/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
