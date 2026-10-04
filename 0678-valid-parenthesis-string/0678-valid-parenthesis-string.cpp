@@ -1,27 +1,25 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int mini = 0, maxi = 0;
+        int cmin = 0;//minimum possible number of "(" bracket
+        int cmax = 0;//maximum possible number of ")" bracket
 
-        int n = s.size();
-
-        for(int i=0; i<n; i++){
-            if(s[i] == '('){
-                maxi++;
-                mini++;
+        for(char c : s){
+            if(c == '('){
+                cmin++;
+                cmax++;
             }
-            else if(s[i] == ')'){
-                mini--;
-                maxi--;
-                if(maxi < 0) return 0;
-                if(mini < 0) mini = 0;;
+            else if(c == ')'){
+                cmin = max(0, cmin - 1);
+                cmax--;
             }
             else{
-                mini--;
-                if(mini < 0) mini = 0;
-                maxi++;
+                cmin = max(0, cmin - 1);
+                cmax++;
             }
+
+            if(cmax < 0) return false;//you have too much closing brackets
         }
-        return mini == 0;
+        return cmin == 0;//minimum unmatches "(" must be 0
     }
 };
