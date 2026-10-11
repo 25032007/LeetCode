@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/25032007/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/25032007/LeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/25032007/LeetCode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/25032007/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/25032007/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/25032007/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/25032007/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/25032007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/25032007/LeetCode/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/25032007/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/25032007/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/25032007/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
