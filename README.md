@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/25032007/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/25032007/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/25032007/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1192-critical-connections-in-a-network](https://github.com/25032007/LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/25032007/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -549,9 +550,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/25032007/LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/25032007/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/25032007/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/25032007/LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/25032007/LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
