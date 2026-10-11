@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/25032007/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/25032007/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/25032007/LeetCode/tree/main/0135-candy/) | Hard |
+| [0200-number-of-islands](https://github.com/25032007/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/25032007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/25032007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/25032007/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/25032007/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/25032007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/25032007/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/25032007/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/25032007/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/25032007/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/25032007/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
@@ -502,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/25032007/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/25032007/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/25032007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/25032007/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/25032007/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/25032007/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/25032007/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -546,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/25032007/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/25032007/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -555,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/25032007/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/25032007/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
