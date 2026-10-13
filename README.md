@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/25032007/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/25032007/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/25032007/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/25032007/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/25032007/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/25032007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/25032007/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/25032007/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/25032007/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/25032007/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/25032007/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/25032007/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/25032007/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25032007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/25032007/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/25032007/LeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/25032007/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
