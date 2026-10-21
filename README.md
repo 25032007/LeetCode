@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/25032007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/25032007/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/25032007/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/25032007/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
