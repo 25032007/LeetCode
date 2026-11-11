@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/25032007/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/25032007/LeetCode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/25032007/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1822-sign-of-the-product-of-an-array](https://github.com/25032007/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25032007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/25032007/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25032007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/25032007/LeetCode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/25032007/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/25032007/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/25032007/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/25032007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/25032007/LeetCode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/25032007/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
