@@ -1,19 +1,11 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int n = nums.size();
         int ans = 0;
-
-        for(int i=0; i<n; i++){
-            int count = 0;
-            int temp = nums[i];
-
-            while(temp > 0){
-                count++;
-                temp /= 10;
+        for(int num : nums){
+            if(to_string(num).length() % 2 == 0){
+                ans++;
             }
-
-            if(count % 2 == 0) ans++;
         }
         return ans;
     }
