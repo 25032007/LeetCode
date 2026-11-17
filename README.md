@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/25032007/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/25032007/LeetCode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/25032007/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/25032007/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/25032007/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/25032007/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/25032007/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/25032007/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/25032007/LeetCode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/25032007/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/25032007/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/25032007/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25032007/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/25032007/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
