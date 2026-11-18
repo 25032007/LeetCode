@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/25032007/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/25032007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/25032007/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/25032007/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0735-asteroid-collision](https://github.com/25032007/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0819-most-common-word](https://github.com/25032007/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0877-stone-game](https://github.com/25032007/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/25032007/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0713-subarray-product-less-than-k](https://github.com/25032007/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/25032007/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/25032007/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25032007/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/25032007/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/25032007/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/25032007/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/25032007/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/25032007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/25032007/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -418,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/25032007/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/25032007/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/25032007/LeetCode/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
+| [0713-subarray-product-less-than-k](https://github.com/25032007/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/25032007/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/25032007/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/25032007/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
