@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-xor-operation-in-an-array](https://github.com/25032007/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/25032007/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25032007/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/25032007/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/25032007/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/25032007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/25032007/LeetCode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
