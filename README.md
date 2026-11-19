@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/25032007/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/25032007/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/25032007/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/25032007/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/25032007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/25032007/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/25032007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/25032007/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/25032007/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/25032007/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/25032007/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/25032007/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/25032007/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/25032007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
