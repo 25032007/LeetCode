@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25032007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/25032007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/25032007/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/25032007/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/25032007/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/25032007/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/25032007/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1678-goal-parser-interpretation](https://github.com/25032007/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/25032007/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25032007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/25032007/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/25032007/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/25032007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/25032007/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/25032007/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/25032007/LeetCode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/25032007/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/25032007/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/25032007/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/25032007/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/25032007/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
